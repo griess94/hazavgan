@@ -1,0 +1,78 @@
+body {
+    direction: rtl;
+    background-image: url('../imges/blackboard-thumbnail.png');
+    /*background-image: url('../imges/360.jpg');*/
+    /*height: 100%;*/
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    color:aliceblue;
+}
+
+
+h3{
+    color:aliceblue;
+}
+.cards{
+    color:black;
+    text-align:center;
+}
+#headertxt {
+    position: relative;
+    margin-top: -10%;
+}
+
+.haeding {
+    position: relative;
+    color: aliceblue;
+    left: 0;
+    right: 355px;
+}
+
+#kidBoard {
+    left: 48%;
+    position: absolute;
+    top: 20%;
+}
+
+#imgesOfkid2 {
+    position: absolute;
+    right: 1000px;
+    top: 30px;
+}
+/*הגדרות עיצוב לכפתורים*/
+.mybtn {
+    width: 27%;
+    height: 80px;
+    margin: 20px;
+    display: inline-block;
+    border: solid 5px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 14px;
+    font-size: 20pt;
+}
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left:80px;
+
+}
+
+#facebook {
+    background-color: #4F81BD;
+    border-color: #385D8A;
+}
+
+#youtube {
+    background-color: #C0504D;
+    border-color: #8C3836;
+}
+
+#info{
+    color:aliceblue;
+
+}
